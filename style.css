@@ -25,7 +25,6 @@ body {
 
 .screenshot {
   display: block;
-  max-width: 90%;
   border-radius: 16px;
   background: transparent;
   box-shadow: 0 8px 24px rgba(0,0,0,.12);
