@@ -28,7 +28,7 @@ body {
   height: auto;
   border-radius: 16px;
   background: transparent;
-  box-shadow: 0 8px 24px rgba(0,0,0,.12); /* если нужна тень */
+  box-shadow: 0 2px 8px rgba(0,0,0,.12); /* если нужна тень */
 }
 
 .caption {
