@@ -24,10 +24,6 @@ body {
 }
 
 .screenshot {
-  display: block;
-  max-width: 90%;
-  height: auto;
-  border-radius: 16px; 
   background: transparent;
 }
 
