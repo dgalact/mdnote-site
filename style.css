@@ -18,15 +18,21 @@ body {
     font-size: 3rem;
 }
 
+
 .screenshot-section {
-    padding: 2rem;
+  padding: 2rem;         
+  background: transparent;
+  border-radius: 0;    
+  box-shadow: none;
 }
 
 .screenshot {
-    max-width: 90%;
-    height: auto;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    border-radius: 12px;
+  display: block;
+  max-width: 90%;
+  height: auto;
+  border-radius: 16px; 
+  background: transparent;
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
 }
 
 .caption {
