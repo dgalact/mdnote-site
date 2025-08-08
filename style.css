@@ -24,10 +24,9 @@ body {
 }
 
 .screenshot {
-  display: block;
   max-width: 90%;
   height: auto;
-  border-radius: 16px;    /* скругляем сам PNG */
+  border-radius: 16px;
   background: transparent;
   box-shadow: 0 8px 24px rgba(0,0,0,.12); /* если нужна тень */
 }
