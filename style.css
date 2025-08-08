@@ -20,13 +20,12 @@ body {
 
 
 .screenshot-section {
-  padding: 0.2rem;         
+  padding: 2rem;         
 }
 
 .screenshot {
   border-radius: 16px;
   background: transparent;
-  box-shadow: 0 8px 24px rgba(0,0,0,.12);
 }
 
 .caption {
